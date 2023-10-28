@@ -5,7 +5,7 @@ const fs = require("fs");
 const transac = require("../testdata/transaction.json");
 const userInfo = require("../testdata/user.json");
 
-describe("Deposite Money System To Agent", () => {
+describe("Deposit Money System To Agent", () => {
     before(async () => {
 
         const userName = userInfo[0].username;
