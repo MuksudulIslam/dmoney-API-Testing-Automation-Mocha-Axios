@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-## Welcome to the dmoney API Testing Project by Using Mocha Chai and Axios. The primary Objective of this Project to Automate and simulate the API Functionalities which are the Series of Logins, Users Creation and Financials Activities Such as Admin Actions, Deposit Money, Send Money, Withdraw Money, Balance Checks, Agent Transactions, Customer-to-Customer Transactions, Customer-to-Merchant Transactions. In This Project is the Demonstrates Practical Example of How to Conduct API Chaining Following Page Object Model Using Mocha Chain and Axios.
+### Welcome to the dmoney API Testing Project by Using Mocha Chai and Axios. The primary Objective of this Project to Automate and simulate the API Functionalities which are the Series of Logins, Users Creation and Financials Activities Such as Admin Actions, Deposit Money, Send Money, Withdraw Money, Balance Checks, Agent Transactions, Customer-to-Customer Transactions, Customer-to-Merchant Transactions. In This Project is the Demonstrates Practical Example of How to Conduct API Chaining Following Page Object Model Using Mocha Chain and Axios.
 
 ## Tools and Technologies:
 
